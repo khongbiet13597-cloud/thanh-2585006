@@ -1,0 +1,6 @@
+{
+  "name": "학습 목표 추적기 (Study Goal Tracker)",
+  "description": "A daily study goal tracker with local storage support, progress tracking, and a clean Korean UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
